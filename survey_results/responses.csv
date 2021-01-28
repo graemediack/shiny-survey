@@ -1,0 +1,4 @@
+question1,question2,question3,summary1,question4,question5,question6,optionSelected,start_date,end_date,choiceset1,choiceset2,added
+Test1,Test1,Test1,Test1,Test1,Test1,Test1,Option 2,2020-Jan,2020-Jan,"Choice 1, Choice 2","Choice 1, Choice 2",2021-01-28T17:29:44Z
+Test2,Test2,Test2,Test2,Test2,Test2,Test2,Option 2,2020-Jan,unknown,"Choice 1, Choice 2","Choice 3, Choice 4",2021-01-28T19:01:06Z
+Test3,Test3,Test3,Test3,Test3,Test3,Test3,Option 3,2020-Jan,2020-Jan,Choice 1,Choice 6,2021-01-28T19:04:45Z
